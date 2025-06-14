@@ -1,0 +1,4 @@
+vijay:85
+Dinesh:65
+Nikhil:75
+Varun:50
